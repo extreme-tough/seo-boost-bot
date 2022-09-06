@@ -1,0 +1,9 @@
+G:\WORK\SEOClick\SEOClick\SEOControl\bin\Debug\SEOControl.exe
+G:\WORK\SEOClick\SEOClick\SEOControl\bin\Debug\SEOControl.pdb
+G:\WORK\SEOClick\SEOClick\SEOControl\obj\Debug\ResolveAssemblyReference.cache
+G:\WORK\SEOClick\SEOClick\SEOControl\obj\Debug\SEOControl.FMain.resources
+G:\WORK\SEOClick\SEOClick\SEOControl\obj\Debug\SEOControl.Properties.Resources.resources
+G:\WORK\SEOClick\SEOClick\SEOControl\obj\Debug\SEOControl.csproj.GenerateResource.Cache
+G:\WORK\SEOClick\SEOClick\SEOControl\obj\Debug\SEOControl.exe
+G:\WORK\SEOClick\SEOClick\SEOControl\obj\Debug\SEOControl.pdb
+G:\WORK\SEOClick\SEOClick\SEOControl\bin\Debug\SEOControl.exe.config

@@ -1,0 +1,8 @@
+G:\WORK\SEOClick\SEOClick\SEOClick\bin\Debug\SEOClick.exe
+G:\WORK\SEOClick\SEOClick\SEOClick\bin\Debug\SEOClick.pdb
+G:\WORK\SEOClick\SEOClick\SEOClick\obj\Debug\ResolveAssemblyReference.cache
+G:\WORK\SEOClick\SEOClick\SEOClick\obj\Debug\SEOClick.frmBrowser.resources
+G:\WORK\SEOClick\SEOClick\SEOClick\obj\Debug\SEOClick.Properties.Resources.resources
+G:\WORK\SEOClick\SEOClick\SEOClick\obj\Debug\SEOClick.csproj.GenerateResource.Cache
+G:\WORK\SEOClick\SEOClick\SEOClick\obj\Debug\SEOClick.exe
+G:\WORK\SEOClick\SEOClick\SEOClick\obj\Debug\SEOClick.pdb
